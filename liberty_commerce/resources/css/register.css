@@ -1,0 +1,46 @@
+.bg
+{
+   background-color: #fffdef;
+}
+.Inscription
+{
+    font-size: 100px;
+    text-align: center;
+    color:#c50000;
+    margin: 10px;
+}
+.pInscription
+{
+    font-size: 20px;
+    text-align: center;
+
+    font-size: 20px;
+} 
+form
+{
+    color:#c50000;
+    border-radius: 20px;
+    background-color:#fffdef;
+    text-align: center;
+}
+p{
+
+color: #c50000;
+}
+button
+{
+    background-color: #e70000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+    border: paleturquoise;
+    margin-left: 10px;
+
+}
+h1{
+    color:#e70000;
+}

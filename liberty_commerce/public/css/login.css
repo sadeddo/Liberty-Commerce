@@ -1,0 +1,52 @@
+body
+{
+    background-color: #ffffff;
+}
+.Connexion
+{
+    font-size: 100px;
+    text-align: center;
+    color:#c50000;
+    margin: 10px;
+}
+.pConnexion
+{
+    color: #c50000;
+    font-size: 20px;
+    text-align: center;
+}
+label
+{
+    font-size: 20px;
+} 
+form{
+    color: #181212;
+    border-radius: 20px;
+    background-color:#fffdef;
+    text-align: center;
+}
+a
+{
+
+    color: #c50000;
+}
+button
+{
+    background-color: #e70000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+    border: paleturquoise;
+    margin-left: 10px;
+
+}
+.mt-4{
+    margin: 2%;
+}
+.header{
+    margin-top: 120px;
+}

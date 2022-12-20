@@ -1,0 +1,127 @@
+.bg
+{
+    background-color:#fffdef;
+}
+
+.produit
+{
+    display: flex;
+    border: solid;
+    margin: 2%;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 60%;
+}
+.SpitchA
+{
+    font-size: 20px;
+}
+.stock
+{
+    color:green;
+    font-size: 16px;
+}
+.box
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.interaction
+{
+    width: 30%;
+    height: 0%;
+    margin-top: 2%;
+    border: solid;
+}
+.i
+{
+    font-size: 30px;
+    color: #c50000;
+}
+.Recette
+{
+    color: #c50000;
+    margin:1%;
+}
+.image
+{
+    border: 3px solid;
+}
+.text
+{
+    font-size: 20px;
+}
+.titre
+{
+    text-align: right;
+    font-size: 30px;
+    color: #c50000;
+}
+button
+{
+    background-color: #e70000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+    border: paleturquoise;
+    margin-left: 10px;
+
+}
+.description
+{
+    display: flex;
+    flex-direction: column;
+}
+.Commentaires
+{
+    width: 50%;
+}
+.Com
+{
+    margin-left: 2%;
+}
+.C
+{
+    width: 100%;
+    height: 150px;
+}
+.AC
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.envoyer
+{
+    background-color: #e70000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+    border: paleturquoise;
+}
+.titreImage
+{
+    margin: 1%;
+}
+.price
+{
+    text-align: left;
+    font-size: 30px;
+    color:#e70000;
+}
+.categorie
+{
+    font-size: 30px;
+    color: #e70000;
+    text-align: center;
+}

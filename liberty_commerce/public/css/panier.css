@@ -1,0 +1,89 @@
+
+th , tr
+{
+    
+    align-items: center;
+
+}
+.tableau img{
+    width: 149px;
+    height: 97px;
+}
+select{
+   width: 70px;
+   height: 45px;
+}
+.titre{
+    color: #c50000;
+    font-size: 45px;
+    text-align: center;
+    margin: 4%;
+    font-family: cursive;
+}
+#cart_content {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+.page .tableau{
+    display: flex;
+    flex-wrap: wrap;
+}
+td{
+    text-align: center;
+    margin: 4%;
+}
+.produit{
+    text-decoration:underline;
+    font-size: 24px;
+    color:  #9e2222;
+}
+.page{
+    display: flex;
+    flex-wrap:wrap ;
+    
+    justify-content: space-evenly;
+}
+.page .Detail .Detail-header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.page .Detail{
+    width: 300px;
+    height: 430px;
+   
+}
+button{
+    background-color: #e70000;
+    Color:white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 3px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 grey;
+    text-decoration: none;
+    border: paleturquoise;
+    margin-left: 10px;
+    font-size: 13px;
+}
+button:hover{ 
+    background-color: #e70000;
+}
+.page .Detail{
+    border: solid ;
+    width: 300px;
+}
+body{
+    background-color: #fffdef;
+}
+.Detail img{
+    height: 10%;
+}
+.text
+{
+    margin: 2%;
+}

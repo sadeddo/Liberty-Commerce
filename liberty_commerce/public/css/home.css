@@ -1,0 +1,76 @@
+body
+{
+font-size: 12px;
+font-family: sans-serif;
+background: #FFFDEF;
+}
+h1
+{
+text-align: center;
+margin: 40px 0 40px;
+text-align: center;
+font-size: 30px;
+color: #5EC6E0;
+text-shadow: 2px 2px 4px #000000;
+font-family: 'Cherry Swash', cursive;
+}
+
+
+header button
+{
+background-color: #C50000;
+Color:white;
+font-weight: bold;
+padding: 10px 40px;
+border-radius: 3px;
+cursor: pointer;
+box-shadow: 0 8px 16px 0 grey;
+text-decoration: none;
+border: paleturquoise;
+}
+.bgg{
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url('/img/mondeCulinaire.jpg');
+background-origin: content-box;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+height: 795px;
+}
+.transparent{
+background-color: rgba(0, 0, 0, 0.4);
+margin-top: auto;
+margin-bottom: auto;
+width: 55%;
+}
+h3{
+color:rgb(219, 107, 2);
+font-size: 30px;
+font-family: cursive;
+text-align: center;
+
+}
+.a{
+font-size: 17px;
+margin-left:auto;
+margin-right: auto;
+color: rgb(255, 255, 255);
+}
+.c{
+color: white;
+font-size: 15px;
+}
+.b button{
+margin-left: 45%;
+background-color: #D6A861;
+Color:white;
+font-weight: bold;
+padding: 10px 40px;
+border-radius: 3px;
+cursor: pointer;
+box-shadow: 0 8px 16px 0 grey;
+text-decoration: none;
+border: paleturquoise;
+}
